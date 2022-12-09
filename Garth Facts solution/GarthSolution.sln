@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarthProject", "GarthProject\GarthProject.csproj", "{3CF97F21-E44B-499E-8AAD-F26AA0B7A894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicLibrary", "MusicLibrary\MusicLibrary.csproj", "{5E9B8477-E10B-4EE5-A78C-F26483931213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF97F21-E44B-499E-8AAD-F26AA0B7A894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF97F21-E44B-499E-8AAD-F26AA0B7A894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF97F21-E44B-499E-8AAD-F26AA0B7A894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF97F21-E44B-499E-8AAD-F26AA0B7A894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9B8477-E10B-4EE5-A78C-F26483931213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9B8477-E10B-4EE5-A78C-F26483931213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9B8477-E10B-4EE5-A78C-F26483931213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9B8477-E10B-4EE5-A78C-F26483931213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683DFD53-4611-48C4-9C80-01FA73E564DD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\Garth\GarthSolution\MusicLibrary\bin\Debug\MusicLibrary.dll
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\Garth\GarthSolution\MusicLibrary\bin\Debug\MusicLibrary.pdb
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\Garth\GarthSolution\MusicLibrary\obj\Debug\MusicLibrary.csproj.AssemblyReference.cache
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\Garth\GarthSolution\MusicLibrary\obj\Debug\MusicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\Garth\GarthSolution\MusicLibrary\obj\Debug\MusicLibrary.dll
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\Garth\GarthSolution\MusicLibrary\obj\Debug\MusicLibrary.pdb
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\GarthFunFacts\GarthSolution\MusicLibrary\bin\Debug\MusicLibrary.dll
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\GarthFunFacts\GarthSolution\MusicLibrary\bin\Debug\MusicLibrary.pdb
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\GarthFunFacts\GarthSolution\MusicLibrary\obj\Debug\MusicLibrary.csproj.AssemblyReference.cache
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\GarthFunFacts\GarthSolution\MusicLibrary\obj\Debug\MusicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\GarthFunFacts\GarthSolution\MusicLibrary\obj\Debug\MusicLibrary.dll
+C:\Users\nick\OneDrive\Desktop\AWD1100-Fall2022-NickGoode\GarthFunFacts\GarthSolution\MusicLibrary\obj\Debug\MusicLibrary.pdb
